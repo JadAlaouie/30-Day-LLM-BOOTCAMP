@@ -1,0 +1,4 @@
+I- But what is a neural network? | Deep Learning chapter I: https://www.youtube.com/watch?v=aircAruvnKk
+II- Gradient Descent, how neural networks learn | Deep Learning Chapter II: https://www.youtube.com/watch?v=IHZwWFHWa-w
+III- Backpropagation, intuitively | Deep Learning Chapter III: https://www.youtube.com/watch?v=Ilg3gGewQ5U
+IV- Backpropagation Calculus | Deep Learning Chapter IV: https://www.youtube.com/watch?v=tIeHLnjs5U8
